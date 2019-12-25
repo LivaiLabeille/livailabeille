@@ -5,7 +5,7 @@ client.on('ready', () => {
   console.log('I am ready!');
 });
 
-client.login("NjU5NDkzODc0ODU4OTgzNDI1.XgPIww.JSTGSqtvdrrcMt10eqEIQNtiUTQ");
+client.login("TOKEN");
 
 client.on('message', message => {
 
